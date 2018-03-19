@@ -1,20 +1,25 @@
-# CustomSvgExample
+# Custom Material Theme Example
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 
 ## Getting Started
 
-1. Clone the repo: 
-```bash
-$ git clone https://github.com/weihungchin/angular-material-custom-svg.git
-```
-2. Cd into the folder, angular-material-custom-svg
+1.  Clone the repo:
 
-3. Run npm install
+```bash
+$ git clone https://github.com/weihungchin/angular-material-theme.git
+```
+
+2.  Cd into the folder, angular-material-custom-svg
+
+3.  Run npm install
+
 ```bash
 $ npm install
 ```
-4. Serve the app at localhost:4200
+
+4.  Serve the app at localhost:4200
+
 ```bash
 $ ng serve
 ```
